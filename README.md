@@ -17,6 +17,6 @@ Then run the following script to extract specified EEG channels and their corres
     `python prepare_sleepedf.py`
 
 ## Run
- python progress.py
+ Run python file progress.py
 
 You can set all of the parameters in function main.

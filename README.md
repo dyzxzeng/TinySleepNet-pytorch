@@ -1,5 +1,5 @@
 # TinySleepNet-pytorch
-An simple reproduce of TinySleepNet with some improvements
+A simple implementation of TinySleepNet with some improvements.
 
 ## Environment
 
